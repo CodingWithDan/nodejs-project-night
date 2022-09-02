@@ -56,6 +56,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Jerica Hall](https://github.com/jericashall) - Project Leader
 - [Ashley Perry](https://github.com/istarlet)
 - [Joe Lee](https://github.com/JoeDravarol)
+- [Daniel Shepardson](https://github.com/CodingWithDan)
 - [Ribbal Hussian](https://github.com/r-Dev03)
 - [Sarah Melki](https://github.com/SarahMelki)
 - [Dex J](https://github.com/Dex-theDev)
